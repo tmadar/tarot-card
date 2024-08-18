@@ -1,0 +1,42 @@
+{
+  "1": {
+    "name": "The Fool",
+    "description": "The Fool represents new beginnings, having faith in the future, and the courage to embrace the unknown."
+  },
+  "2": {
+    "name": "The Magician",
+    "description": "The Magician symbolizes willpower, resourcefulness, and the ability to manifest one’s desires into reality."
+  },
+  "3": {
+    "name": "The High Priestess",
+    "description": "The High Priestess embodies intuition, mystery, and the wisdom that comes from deep introspection."
+  },
+  "4": {
+    "name": "The Empress",
+    "description": "The Empress is a symbol of fertility, creativity, abundance, and the nurturing aspects of life."
+  },
+  "5": {
+    "name": "The Emperor",
+    "description": "The Emperor stands for authority, structure, control, and the power that comes from established order."
+  },
+  "6": {
+    "name": "The Hierophant",
+    "description": "The Hierophant represents tradition, spiritual guidance, and the search for deeper meaning within established institutions."
+  },
+  "7": {
+    "name": "The Lovers",
+    "description": "The Lovers signify relationships, harmony, choices, and the unity that comes from a deep connection with another."
+  },
+  "8": {
+    "name": "The Chariot",
+    "description": "The Chariot represents determination, victory, and the drive to overcome obstacles through sheer willpower."
+  },
+  "9": {
+    "name": "Strength",
+    "description": "Strength symbolizes inner courage, resilience, and the calm endurance needed to overcome life's challenges."
+  },
+  "10": {
+    "name": "The Hermit",
+    "description": "The Hermit signifies introspection, solitude, and the quest for personal truth through deep reflection."
+  }
+}

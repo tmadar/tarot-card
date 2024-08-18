@@ -1,0 +1,23 @@
+{
+    "name": "tarot-card",
+    "version": "1.0.0",
+    "description": "Pull a tarot card",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node src/index.js",
+        "lint": "eslint . --ext .js",
+        "lint:fix": "eslint . --ext .js --fix"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+        "@babel/core": "^7.25.2",
+        "@babel/eslint-parser": "^7.25.1",
+        "eslint": "^8.2.0",
+        "eslint-config-airbnb": "^19.0.4"
+    },
+    "engines": {
+        "node": "20.x"
+    }
+}
